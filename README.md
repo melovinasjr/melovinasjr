@@ -1,4 +1,4 @@
-# Hi, I'm Ermelo 👋
+# Hi, I'm Melo 👋
 
 🎓 Master's student in Information Engineering & Computer Science  
 💻 Interested in software development, AI, and data science  
