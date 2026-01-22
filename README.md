@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ermelo 👋
 
-<!--
-**melovinasjr/melovinasjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Information Engineering & Computer Science  
+💻 Interested in software development, AI, and data science  
+🎮 Loves gaming and technology  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, HTML/CSS, Java, C/C++
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🚀 Coming soon!
+
+## 📫 Contact
+- Email: melovinasjr@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ermelovinasjr/
