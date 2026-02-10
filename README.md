@@ -13,5 +13,5 @@
 
 ## 📫 Contact
 - Email: melovinasjr@gmail.com
-- LinkedIn: <a target="_blank>https://www.linkedin.com/in/ermelovinasjr/</a>
+- LinkedIn: https://www.linkedin.com/in/ermelovinasjr/
 - Portfolio: https://ermelo-s-digital-space.onrender.com/
