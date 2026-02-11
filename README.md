@@ -5,7 +5,7 @@
 🎮 Loves gaming and technology  
 
 ## 🔧 Skills
-- Python, HTML/CSS, Java, C/C++
+- HTML/CSS, JavaScript, C/C++, Phyton
 - Git & GitHub
 
 ## 📂 Projects
