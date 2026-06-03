@@ -1,6 +1,6 @@
-# Hi, I'm Ermelo Viñas Jr.
+# Hi, I'm Ermelo Vinas Jr.
 
-Master's student in Information Engineering and Computer Science, building practical projects in various courseworks and AI-assisted development.
+Master's student in Information Engineering and Computer Science, building practical projects in image processing, data structures, and AI-assisted development.
 
 ## Current Focus
 
@@ -53,6 +53,10 @@ Master's student in Information Engineering and Computer Science, building pract
 - [Sparse Matrix Operations](https://github.com/melovinasjr/sparse-matrix-operations): sparse matrix triplet operations with C and Java JNI.
 - [Stack Expression Converter](https://github.com/melovinasjr/stack-expression-converter): infix, postfix, prefix conversion and expression evaluation with C and Java JNI.
 - [Linked List Polynomial Application](https://github.com/melovinasjr/linked-list-polynomial-application): polynomial equation manager using linked lists in C.
+- [Heap Producer-Consumer Buffer](https://github.com/melovinasjr/heap-producer-consumer-buffer): Java Swing producer-consumer simulation using a min-heap priority buffer.
+- [Graph Traversal GUI](https://github.com/melovinasjr/graph-traversal-gui): graph representation, DFS, and BFS traversal with a C backend and Java Swing GUI.
+- [Graph Applications GUI](https://github.com/melovinasjr/graph-applications-gui): MST, shortest path, articulation points, and verification workflows with C and Java Swing.
+- [Sorting Algorithm Benchmark](https://github.com/melovinasjr/sorting-algorithm-benchmark): sorting benchmark suite across Python, C, and Java with CSV results and charts.
 
 See the grouped index: [Academic Coursework](https://github.com/melovinasjr/academic-coursework)
 
