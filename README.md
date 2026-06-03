@@ -13,28 +13,28 @@ Master's student in Information Engineering and Computer Science, building pract
 ### Languages
 
 <p>
-  <img src="assets/tech-icons/python.gif" width="72" alt="Python" />
-  <img src="assets/tech-icons/c.gif" width="72" alt="C" />
-  <img src="assets/tech-icons/java.gif" width="72" alt="Java" />
-  <img src="assets/tech-icons/javascript.gif" width="72" alt="JavaScript" />
+  <img src="assets/tech-icons/python.gif" width="96" alt="Python" />
+  <img src="assets/tech-icons/c.gif" width="96" alt="C" />
+  <img src="assets/tech-icons/java.gif" width="96" alt="Java" />
+  <img src="assets/tech-icons/javascript.gif" width="96" alt="JavaScript" />
 </p>
 
 ### Image Processing
 
 <p>
-  <img src="assets/tech-icons/opencv.gif" width="72" alt="OpenCV" />
-  <img src="assets/tech-icons/numpy.gif" width="72" alt="NumPy" />
-  <img src="assets/tech-icons/pillow.gif" width="72" alt="Pillow" />
-  <img src="assets/tech-icons/matplotlib.gif" width="72" alt="Matplotlib" />
+  <img src="assets/tech-icons/opencv.gif" width="96" alt="OpenCV" />
+  <img src="assets/tech-icons/numpy.gif" width="96" alt="NumPy" />
+  <img src="assets/tech-icons/pillow.gif" width="96" alt="Pillow" />
+  <img src="assets/tech-icons/matplotlib.gif" width="96" alt="Matplotlib" />
 </p>
 
 ### Tools and Systems
 
 <p>
-  <img src="assets/tech-icons/git.gif" width="72" alt="Git" />
-  <img src="assets/tech-icons/github.gif" width="72" alt="GitHub" />
-  <img src="assets/tech-icons/jni.gif" width="72" alt="JNI" />
-  <img src="assets/tech-icons/swing.gif" width="72" alt="Java Swing" />
+  <img src="assets/tech-icons/git.gif" width="96" alt="Git" />
+  <img src="assets/tech-icons/github.gif" width="96" alt="GitHub" />
+  <img src="assets/tech-icons/jni.gif" width="96" alt="JNI" />
+  <img src="assets/tech-icons/swing.gif" width="96" alt="Java Swing" />
 </p>
 - Interests: AI-assisted development, computer vision, software engineering, data structures
 
