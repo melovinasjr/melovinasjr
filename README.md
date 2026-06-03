@@ -1,4 +1,4 @@
-# Hi, I'm Ermelo Vinas Jr.
+# Hi, I'm Ermelo Viñas Jr. (阿洛)
 
 Master's student in Information Engineering and Computer Science, building practical projects in image processing, data structures, and AI-assisted development.
 
