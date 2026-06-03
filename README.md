@@ -1,6 +1,6 @@
 # Hi, I'm Ermelo Vinas Jr.
 
-Master's student in Information Engineering and Computer Science, building practical projects in image processing, data structures, and AI-assisted development.
+Master's student in Information Engineering and Computer Science, building practical projects in various courseworks and AI-assisted development.
 
 ## Current Focus
 
