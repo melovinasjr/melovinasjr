@@ -1,6 +1,6 @@
 # Hi, I'm Ermelo Vinas Jr.
 
-Master's student in Information Engineering and Computer Science, building practical projects in various related coursework, and AI-assisted development.
+Master's student in Information Engineering and Computer Science, building practical projects in image processing, data structures, and AI-assisted development.
 
 ## Current Focus
 
@@ -9,6 +9,8 @@ Master's student in Information Engineering and Computer Science, building pract
 - Building a clearer portfolio around coursework, experiments, and applied software projects
 
 ## Tech Stack
+
+![Animated tech stack](assets/tech-stack.gif)
 
 - Languages: Python, C, Java, JavaScript
 - Image Processing: OpenCV, NumPy, Pillow, Matplotlib
@@ -38,4 +40,3 @@ See the grouped index: [Academic Coursework](https://github.com/melovinasjr/acad
 - Email: melovinasjr@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ermelovinasjr/
 - Portfolio: https://melo-portfolio.onrender.com/
-
